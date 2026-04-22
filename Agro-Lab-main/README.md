@@ -34,6 +34,6 @@
 
 
 ## Developer
-**Developed & Maintained by:** Kartik Krishna Kale and Jinendra Singh Dodiya  
+**Developed & Maintained by:** Jinendra Singh Dodiya, Kartik Krishna Kale, Akshi Bargujar
 **Contact:** [kartikkrishna761@gmail.com](mailto:kartikkrishna761@gmail.com)
 
